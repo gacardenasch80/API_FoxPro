@@ -1,0 +1,12 @@
+C:\Desarrollo7\ProyectoDll\MedisoftFE\MedisoftCore\bin\Debug\MedisoftCore.dll
+C:\Desarrollo7\ProyectoDll\MedisoftFE\MedisoftCore\bin\Debug\MedisoftCore.pdb
+C:\Desarrollo7\ProyectoDll\MedisoftFE\MedisoftCore\bin\Debug\Dapper.Contrib.dll
+C:\Desarrollo7\ProyectoDll\MedisoftFE\MedisoftCore\bin\Debug\Dapper.dll
+C:\Desarrollo7\ProyectoDll\MedisoftFE\MedisoftCore\bin\Debug\System.Data.OleDb.dll
+C:\Desarrollo7\ProyectoDll\MedisoftFE\MedisoftCore\bin\Debug\Dapper.xml
+C:\Desarrollo7\ProyectoDll\MedisoftFE\MedisoftCore\bin\Debug\Dapper.Contrib.xml
+C:\Desarrollo7\ProyectoDll\MedisoftFE\MedisoftCore\bin\Debug\System.Data.OleDb.xml
+C:\Desarrollo7\ProyectoDll\MedisoftFE\MedisoftCore\obj\Debug\MedisoftCore.csproj.CoreCompileInputs.cache
+C:\Desarrollo7\ProyectoDll\MedisoftFE\MedisoftCore\obj\Debug\MedisoftCore.csproj.CopyComplete
+C:\Desarrollo7\ProyectoDll\MedisoftFE\MedisoftCore\obj\Debug\MedisoftCore.dll
+C:\Desarrollo7\ProyectoDll\MedisoftFE\MedisoftCore\obj\Debug\MedisoftCore.pdb
